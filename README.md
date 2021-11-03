@@ -40,5 +40,5 @@ Role : 데이터 수집 / EDA / 논문 분석 / 산출물 제작
 
 ## 분석 산출물
 - [분석산출물_판넬.pdf](https://github.com/sihyeon3523/Prediction-of-Seoul-Apartment-Housing-Prices/files/7459205/_.pdf)
-- [분석산출물_보고서.pdf](https://github.com/sihyeon3523/Prediction-of-Seoul-Apartment-Housing-Prices/files/7459211/_.pdf)
+- [분석산출물_보고서.pdf](분석 산출물/분석산출물_보고서.pdf)
 
